@@ -1,0 +1,40 @@
+body {
+
+ background: lightskyblue;    
+}
+
+#article{
+    display: grid;
+    background-color: rgb(178, 236, 178)
+;
+height: 400;
+
+}
+
+.lista{
+}
+
+footer{
+    display: flex;
+}
+
+div{
+    background-color: rgb(224, 234, 238)
+    flex: 1;
+    width: 50px;
+    margin: 100px;
+}
+
+#div1{
+    background-color: rgb(53, 112, 240);
+}
+
+#div2 {
+    background-color: rgb(53, 112, 240);;
+}
+
+#div3 {
+
+    background-color: rgb(53, 112, 240);;
+}
+
